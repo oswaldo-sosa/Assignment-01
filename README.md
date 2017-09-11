@@ -31,7 +31,7 @@ upload and are able to put a description of the image.
 
 ![New-post](https://github.com/oswaldo-sosa/Assignment-01/blob/master/Project%20Pictures/New-post.png)
 
-Users are able to log out of theur own account, by clicking on the "Logout" tab. The user will receive a notification
+Users are able to log out of their own account, by clicking on the "Logout" tab. The user will receive a notification
 to confirm their request to log out and will also receive another notification alerting them they logged out successfully.
 
 ![Log-out-confirmation](https://github.com/oswaldo-sosa/Assignment-01/blob/master/Project%20Pictures/Log-out-confirmation.png)
