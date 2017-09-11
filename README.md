@@ -13,7 +13,7 @@ Used the Bootstrap Bare template to format the site.
 Functionality:
 Users are able to register for an account by providing an email address and password.
 
-![Home-page](https://github.com/oswaldo-sosa/Assignment-01/blob/master/Project%20Pictures/Home-page.png)
+![Register](https://github.com/oswaldo-sosa/Assignment-01/blob/master/Project%20Pictures/Register.png)
 
 Users are able to log into their account after creating an account. The user will receive a notification alerting them
 that they successfully logged in.
